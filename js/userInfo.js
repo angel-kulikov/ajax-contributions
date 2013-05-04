@@ -1,0 +1,1 @@
+funcs.getAutor(this);
